@@ -1,6 +1,0 @@
-Difference In Days : 32
-Max Date : Sun Aug 01 2021 07:00:00 GMT+0700 (Western Indonesia Time)
-Min Date : Wed Jun 30 2021 07:00:00 GMT+0700 (Western Indonesia Time)
-Number Type of Discrepencies : 6
-Source Recorded : 9
-Types of Discrepencies : Amt, Descr, Date, ID
